@@ -1,0 +1,43 @@
+LICENSE AGREEMENT
+
+LICENSOR: Walied Othman
+
+SOFTWARE: Any software written by Walied Othman, in this particular case FGInt and the public key or asymmetric algorithms using FGInt.
+From now on statements like "software" are referrals to the definition of software as defined above.  
+
+This license agreement ("License") is a legal agreement between you (either an individual or a single entity) and Walied Othman.  At the end of the License you will be asked to accept this License.  By using the software, you agree to be bound by the terms of this License. If you do not agree to the terms of this License, you are not authorized to use the software.
+The software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The software is licensed, not sold.
+This license applies to software, regardless of the way you obtained the software.  The software is property of Walied Othman, Your rights and obligations with respect to the use of this software are as follows:
+
+1.	GRANT OF LICENSE. 
+This non-exclusive license grants you the following rights: 
+- The right to use the software in a commercial application.
+- The right to adapt the software freely to suit your needs.
+- No license is needed for end-users of your software to use it.
+
+2.	CONDITIONS, RESTRICTIONS & OBLIGATIONS.
+- A sum equal to the (full) license fee of the application in which the 
+software is being used, is to be paid to Walied Othman, only once.
+- Validity of this license fully depends on the previous condition and the presence of two (2) signatures, one of yourself and one of Walied Othman, accompanied by a date at the bottom of this document.
+- You may not remove copyright notices from copies of the software.
+- You may not claim this software as written by anyone but myself, Walied Othman.  
+- Software that includes the software as defined above must contain a notice of the software used and of the author, being Walied Othman, in the credits.  
+- Patent issues on the use of some asymmetric algorithms in some countries and export regulations are of your own concern and can in no way whatsoever be claimed as my responsibility.
+
+3.	TERMINATION. 
+- This license is automatically terminated when you don 't comply with the terms and conditions of this license.  In such event, you must destroy all copies of the software.
+
+4.	COPYRIGHT & INTELLECTUAL PROPERTY RIGHTS.
+- All ownership, title and intellectual property rights in and to the software are owned by Walied Othman.
+
+5.	UPGRADES.
+- Upgrades to the software are also included in the definition of software and thereby covered by this license.
+
+6.	NO WARRANTY. 
+- Any use of the software is at your own risk.  
+
+7.	NO LIABILITY FOR CONSEQUENTIAL DAMAGES. 
+- To the maximum extent permitted by applicable law, in no event shall Walied Othman be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the software, even if Walied Othman has been advised of the possibility of such damages.  
+
+Copyright 2000, Walied Othman
+By signing you accept the terms and conditions of this license agreement.
