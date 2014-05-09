@@ -1,4 +1,9 @@
- License, info, etc
+ Official Repository
+ ------------------
+ https://github.com/rainwolf/FGInt
+
+
+ License, info, etc [contact information is outdated]
  ------------------
 
 This implementation is made by me, Walied Othman, to contact me
